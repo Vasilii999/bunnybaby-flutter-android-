@@ -17,18 +17,18 @@
 
 ## 🛠️ Технологии и пакеты
 
-- `Flutter`
-- `Dart`
-- `Firebase Auth`
-- `Cloud Firestore`
-- `flutter_bloc` / `Cubit`
-- `intl`, `flutter_svg` и др.
+-  Flutter
+-  Dart
+-  Firebase Auth
+-  Cloud Firestore
+-  flutter_bloc / Cubit
+-  intl,  flutter_svg и др.
 
 ---
 
 ## 🚀 Как запустить проект
 
-```bash
+bash
 git clone https://github.com/Vasilii999/bunnybaby-flutter-android-.git
 cd bunnybaby-flutter-android-
 flutter pub get
