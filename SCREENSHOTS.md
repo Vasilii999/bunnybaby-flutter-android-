@@ -2,22 +2,23 @@
 
 ## 🔐 Авторизация
 
-![Экран входа](assets/screenshots/Screenshot1.png)
-![Экран входа](assets/screenshots/Screenshot2.png)
-![Экран регистрации](assets/screenshots/Screenshot12.png)
+<img src="assets/screenshots/Screenshot1.png" width="300" />
+<img src="assets/screenshots/Screenshot2.png" width="300" />
+<img src="assets/screenshots/Screenshot12.png" width="300" />
 
 ## 🏠 Главный интерфейс
 
-![Главная](assets/screenshots/Screenshot3.png)
-![Профиль](assets/screenshots/Screenshot10.png)
-![Аккаунт](assets/screenshots/Screenshot13.png)
-
-![Товар](assets/screenshots/Screenshot4.png)
-![Корзина](assets/screenshots/Screenshot5.png)
-![Выбор адресса](assets/screenshots/Screenshot6.png)
-![Выбор оплаты](assets/screenshots/Screenshot7.png)
-![Мои заказы](assets/screenshots/Screenshot8.png)
-![Детали заказа](assets/screenshots/Screenshot9.png)
+<img src="assets/screenshots/Screenshot3.png" width="300" />
+<img src="assets/screenshots/Screenshot10.png" width="300" />
+<img src="assets/screenshots/Screenshot13.png" width="300" />
+<br />
+<img src="assets/screenshots/Screenshot4.png" width="300" />
+<img src="assets/screenshots/Screenshot5.png" width="300" />
+<img src="assets/screenshots/Screenshot6.png" width="300" />
+<br />
+<img src="assets/screenshots/Screenshot7.png" width="300" />
+<img src="assets/screenshots/Screenshot8.png" width="300" />
+<img src="assets/screenshots/Screenshot9.png" width="300" />
 
 ## 📊 Firebase
 ![Коллекции](assets/screenshots/Screenshot11.png)
